@@ -1,0 +1,26 @@
+header {
+    background-color: greenyellow;
+    color: black;
+    padding: 30px;
+  }
+  header h1{
+    text-align:center ;
+  }
+  .about {
+    color:white;
+    text-align:left;
+  }
+  .layanan {
+    color: white;
+  }
+  .packages {
+    color : white;
+  }
+  .contact {
+    background-color:greenyellow;
+    color: white;
+    text-align:center
+  }
+.fouter {
+color : white;
+}
